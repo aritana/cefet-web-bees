@@ -105,7 +105,7 @@ img:not([alt]) {
     border: 50px double rgba(219, 185, 64, 255);
 }
 
-#curiosidade_sem_flutuacao {
+#curiosidade-sem-flutuacao {
     clear: both;
     margin-right: 20px;
     border: 1px solid rgba(219, 185, 64, 255);
