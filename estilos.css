@@ -53,6 +53,7 @@ p.curiosidade {
 .esquerda {
     float: left;
     margin-right: 20px;
+    margin-bottom: 10px;
 }
 
 .direita {
@@ -101,4 +102,17 @@ p:last-of-type {
 img[alt=""],
 img:not([alt]) {
     background-color: rgb(156, 21, 21);
+    border: 50px double rgba(219, 185, 64, 255);
+}
+
+#curiosidade_sem_flutuacao {
+    clear: both;
+    margin-right: 20px;
+    border: 1px solid rgba(219, 185, 64, 255);
+    border-radius: 10px;
+    background-image: url("./imgs/favo-de-mel.png");
+    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
